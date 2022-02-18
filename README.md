@@ -21,16 +21,14 @@
 ## M-bias графики
 ---------------
 8 cell
-![3_image](hse_hw1_meth/images/8cell_1_bias.png) 
-![4_image](hse_hw1_meth/images/8cell_2_bias.png) 
+|![3_image](hse_hw1_meth/images/8cell_1_bias.png)|![4_image](hse_hw1_meth/images/8cell_2_bias.png)|
 Epiblast
-![5_image](hse_hw1_meth/images/epiblast__1_bias.png) 
-![6_image](hse_hw1_meth/images/epiblast__2_bias.png) 
+|![5_image](hse_hw1_meth/images/epiblast_1_bias.png)|![6_image](hse_hw1_meth/images/epiblast_2_bias.png)| 
 ICM
-![7_image](hse_hw1_meth/images/icm__1_bias.png) 
-![8_image](hse_hw1_meth/images/icm__2_bias.png) 
+|![7_image](hse_hw1_meth/images/icm_1_bias.png)|![8_image](hse_hw1_meth/images/icm_2_bias.png)| 
 *В целом,* процент метилированных нуклеотидов в клетках Epiblast выше по отношению с другими типами клеток.
-По данным графикам можно отметить также общую закономерность: в ридах с обратными цепями наблюдается чуть больший процент метилирования в начале последовательности ( у клеток ICM и 8 cell, в клетках Epiblast процент метилирования в начале образца наоборот чуть меньше. 
+По данным графикам можно отметить также общую закономерность: в ридах с обратными цепями наблюдается чуть больший процент метилирования (CpG) в начале последовательности ( у клеток ICM и 8 cell), в клетках Epiblast процент метилирования (CpG) в начале образца наоборот чуть меньше. M-bias нужен для того чтобы исследователь мог принять решение, следует ли оставлять bias в окончательных данных или удалять его. В данном случае можно сказать, что риды с разбросом метилирования можно игнорировать, так как bias не так значительно отклоняется.
+------------
 ## Гистограммы распределения метилирования цитозинов по хромосоме
 8 cell
 ![9_image](hse_hw1_meth/images/8cell_met_c.png) 
@@ -38,14 +36,7 @@ Epiblast
 ![10_image](hse_hw1_meth/images/epiblast_met_c.png) 
 ICM
 ![11_image](hse_hw1_meth/images/icm_met_c.png) 
+Можно сделать вывод, что метилирование сильнее в образце Epiblast, в то время как в ICM большая часть цитозина не метилирована, а в 8 cell распределение равномерное.
+В целом, полученные графики идентичны графикам из статьи.
 ## Уровень метилирования и покрытия для каждого образца
 ![12_image](hse_hw1_meth/images/level_met_c.png) 
-
-
-
-
-
-
-
-
-

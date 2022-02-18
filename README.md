@@ -22,6 +22,7 @@
 ## M-bias графики
 ---------------
 8 cell
+|---|---|
 |![3_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_1_bias.png?raw=true![image](https://user-images.githubusercontent.com/60029586/154726992-f5d216bd-412b-438d-9a5c-06b9490b99dc.png)|![4_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_2_bias.png?raw=true)|
 Epiblast
 |![5_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_1_bias.png?raw=true)|![6_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_2_bias.png?raw=true)| 

@@ -22,12 +22,20 @@
 ## M-bias графики
 ---------------
 8 cell
-|---|---|
-|![3_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_1_bias.png?raw=true![image](https://user-images.githubusercontent.com/60029586/154726992-f5d216bd-412b-438d-9a5c-06b9490b99dc.png)|![4_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_2_bias.png?raw=true)|
+
+![3_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_1_bias.png?raw=true![image](https://user-images.githubusercontent.com/60029586/154726992-f5d216bd-412b-438d-9a5c-06b9490b99dc.png)
+![4_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_2_bias.png?raw=true)
+
 Epiblast
-|![5_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_1_bias.png?raw=true)|![6_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_2_bias.png?raw=true)| 
+
+![5_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_1_bias.png?raw=true)
+![6_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_2_bias.png?raw=true)
+
 ICM
-|![7_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_1_bias.png?raw=true)|![8_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_2_bias.png?raw=true)| 
+
+![7_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_1_bias.png?raw=true)
+![8_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_2_bias.png?raw=true)
+
 *В целом,* процент метилированных нуклеотидов в клетках Epiblast выше по отношению с другими типами клеток.
 По данным графикам можно отметить также общую закономерность: в ридах с обратными цепями наблюдается чуть больший процент метилирования (CpG) в начале последовательности ( у клеток ICM и 8 cell), в клетках Epiblast процент метилирования (CpG) в начале образца наоборот чуть меньше. M-bias нужен для того чтобы исследователь мог принять решение, следует ли оставлять bias в окончательных данных или удалять его. В данном случае можно сказать, что риды с разбросом метилирования можно игнорировать, так как bias не так значительно отклоняется.
 ------------

@@ -12,7 +12,7 @@
 ![1_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/nucleotides.png?raw=true) 
 ## GC-состав
 -----------
-![2_image](hse_hw1_meth/images/GC.png) 
+![2_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/GC.png?raw=true) 
 ## Статистика по каждому из 3 образцов
 |Номер образца|Тип клеток|Риды на 11347700-11367700 нуклеотидах|Риды на 40185800-40195800 нуклеотидах|% дуплицированных|
 |---------------|----------|-------------------------|---------------------------|---------------|
@@ -22,22 +22,22 @@
 ## M-bias графики
 ---------------
 8 cell
-|![3_image](hse_hw1_meth/images/8cell_1_bias.png)|![4_image](hse_hw1_meth/images/8cell_2_bias.png)|
+|![3_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_1_bias.png?raw=true![image](https://user-images.githubusercontent.com/60029586/154726992-f5d216bd-412b-438d-9a5c-06b9490b99dc.png)|![4_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_2_bias.png?raw=true)|
 Epiblast
-|![5_image](hse_hw1_meth/images/epiblast_1_bias.png)|![6_image](hse_hw1_meth/images/epiblast_2_bias.png)| 
+|![5_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_1_bias.png?raw=true)|![6_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_2_bias.png?raw=true)| 
 ICM
-|![7_image](hse_hw1_meth/images/icm_1_bias.png)|![8_image](hse_hw1_meth/images/icm_2_bias.png)| 
+|![7_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_1_bias.png?raw=true)|![8_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_2_bias.png?raw=true)| 
 *В целом,* процент метилированных нуклеотидов в клетках Epiblast выше по отношению с другими типами клеток.
 По данным графикам можно отметить также общую закономерность: в ридах с обратными цепями наблюдается чуть больший процент метилирования (CpG) в начале последовательности ( у клеток ICM и 8 cell), в клетках Epiblast процент метилирования (CpG) в начале образца наоборот чуть меньше. M-bias нужен для того чтобы исследователь мог принять решение, следует ли оставлять bias в окончательных данных или удалять его. В данном случае можно сказать, что риды с разбросом метилирования можно игнорировать, так как bias не так значительно отклоняется.
 ------------
 ## Гистограммы распределения метилирования цитозинов по хромосоме
 8 cell
-![9_image](hse_hw1_meth/images/8cell_met_c.png) 
+![9_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/8cell_met_c.png?raw=true) 
 Epiblast
-![10_image](hse_hw1_meth/images/epiblast_met_c.png) 
+![10_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/epiblast_met_c.png?raw=true) 
 ICM
-![11_image](hse_hw1_meth/images/icm_met_c.png) 
+![11_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/icm_met_c.png?raw=true) 
 Можно сделать вывод, что метилирование сильнее в образце Epiblast, в то время как в ICM большая часть цитозина не метилирована, а в 8 cell распределение равномерное.
 В целом, полученные графики идентичны графикам из статьи.
 ## Уровень метилирования и покрытия для каждого образца
-![12_image](hse_hw1_meth/images/level_met_c.png) 
+![12_image](https://github.com/AlinaPokryshchenko/hse_hw1_meth/blob/main/images/level_met_c.png?raw=true) 
